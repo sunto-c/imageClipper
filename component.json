@@ -1,0 +1,10 @@
+{
+  "name": "imageClipper",
+  "main": "imageClipper",
+  "version": "0.1.0",
+  "repos": "https://github.com/libmw/imageClipper",
+  "description": "javascript图片裁剪上传组件",
+  "dependencies":[
+    "jquery@1.9.1"
+  ]
+}
